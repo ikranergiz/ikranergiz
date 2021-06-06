@@ -1,4 +1,4 @@
- # Hi there 👋,I'm Ikra Nergiz 
+ # Hi there 👋,I'm Ikra
  ## About me
  
 - ✨I am computer engineering student #2 at Istanbul Medeniyet University.
